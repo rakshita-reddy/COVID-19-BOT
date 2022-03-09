@@ -1,4 +1,16 @@
+project URL :
+
+https://sites.google.com/view/covid19questions/home
+
+
+project video URL :
+
+
+
+
+
 #screenshots
+
 overwiew of the qna bot : ![Screenshot (12)](https://user-images.githubusercontent.com/70945363/157469784-30680079-7e81-46f0-93c0-0fb7905cb7a7.png)
 bot configuration : ![Screenshot (18)_LI](https://user-images.githubusercontent.com/70945363/157470006-7a142dcc-22e1-47af-9740-8b10f3d1db41.jpg)
 channels(deprecated):![Screenshot (15)](https://user-images.githubusercontent.com/70945363/157470268-a6e94ce0-1cb3-46c9-b841-6feecfabe0fa.png)
