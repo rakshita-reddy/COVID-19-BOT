@@ -1,3 +1,10 @@
+#screenshots
+overwiew of the qna bot : ![Screenshot (12)](https://user-images.githubusercontent.com/70945363/157469784-30680079-7e81-46f0-93c0-0fb7905cb7a7.png)
+bot configuration : ![Screenshot (18)_LI](https://user-images.githubusercontent.com/70945363/157470006-7a142dcc-22e1-47af-9740-8b10f3d1db41.jpg)
+channels(deprecated):![Screenshot (15)](https://user-images.githubusercontent.com/70945363/157470268-a6e94ce0-1cb3-46c9-b841-6feecfabe0fa.png)
+testing in webchat :![Screenshot (16)](https://user-images.githubusercontent.com/70945363/157470383-a81ef1dc-0ad6-4b80-b943-d8814bcfb06d.png)
+deployes onto google sites as a website embedded with the bot : ![Screenshot (17)](https://user-images.githubusercontent.com/70945363/157470518-55c53e97-060d-4ed4-afaa-1215f2dcbf2e.png)
+
 # QnA Maker
 
 Bot Framework v4 QnA Maker bot sample. This sample shows how to integrate Multiturn and Active learning in a QnA Maker bot with ASP.Net Core-2. Click [here][72] to know more about using follow-up prompts to create multiturn conversation. To know more about how to enable and use active learning, click [here][71].
